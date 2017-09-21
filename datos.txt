@@ -1,0 +1,7 @@
+Nombre // Apellido // Edad
+
+a // a // 1
+a // a // 1
+a // a // 2
+s // a // 3
+q // s // 4
